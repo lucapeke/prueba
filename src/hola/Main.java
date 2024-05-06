@@ -8,6 +8,7 @@ public class Main {
 		
 		JOptionPane.showMessageDialog(null, "Hola");
 		String nombre;
+		int edad;
 	}
 
 }
